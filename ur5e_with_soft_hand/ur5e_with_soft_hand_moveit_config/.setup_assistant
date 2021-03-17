@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ur5e_with_soft_hand
+    relative_path: urdf/ur5e_with_soft_hand.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ur5e_with_soft_hand.srdf
+  CONFIG:
+    author_name: Clark Teeple
+    author_email: cbteeple@g.harvard.edu
+    generated_timestamp: 1615240680
