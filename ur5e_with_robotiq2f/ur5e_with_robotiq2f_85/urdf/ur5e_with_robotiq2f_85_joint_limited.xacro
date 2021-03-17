@@ -2,7 +2,10 @@
 <robot xmlns:xacro="https://ros.org/wiki/xacro" name="ur5e_with_robotiq2f_85_joint_limited">
 
   <!-- ur5 -->
+  <xacro:include filename="$(find ur_e_description)/urdf/common.gazebo.xacro" />
+  <!-- ur5e -->
   <xacro:include filename="$(find ur_e_description)/urdf/ur5e.urdf.xacro" />
+  
   <!-- end-effector -->
   <xacro:include filename="$(find robotiq_2f_85_gripper_visualization)/urdf/robotiq_arg2f_85_model_macro.xacro" />
   <xacro:include filename="connect_gripper.xacro" />
