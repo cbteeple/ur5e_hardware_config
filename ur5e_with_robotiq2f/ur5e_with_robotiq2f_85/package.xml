@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>ur5e_with_robotiq</name>
+  <name>ur5e_with_robotiq2f_85</name>
   <version>0.0.0</version>
-  <description>The ur5e_with_robotiq package</description>
+  <description>The ur5e_with_robotiq2f_85 package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->

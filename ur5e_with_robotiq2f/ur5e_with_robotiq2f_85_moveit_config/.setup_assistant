@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ur5e_with_robotiq2f_85
+    relative_path: urdf/ur5e_with_robotiq2f_85.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ur5e_with_robotiq2f_85.srdf
+  CONFIG:
+    author_name: Clark Teeple
+    author_email: cbteeple@g.harvard.edu
+    generated_timestamp: 1616015150
