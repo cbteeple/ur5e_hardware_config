@@ -356,6 +356,6 @@
     <parent link="world"/>
     <child link="base_link"/>
     <!-- TODO: check base_link name of robot -->
-    <origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
+    <origin rpy="0.0 0.0 0.0349066" xyz="0.0 0.0 0.0"/>
   </joint>
 </robot>

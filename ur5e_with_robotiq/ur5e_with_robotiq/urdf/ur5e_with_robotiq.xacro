@@ -19,6 +19,6 @@
   <joint name="world_joint" type="fixed">
     <parent link="world" />
     <child link="base_link" /> <!-- TODO: check base_link name of robot -->
-    <origin xyz="0.0 0.0 0.0" rpy="0.0 0.0 0.0" />
+    <origin xyz="0.0 0.0 0.0" rpy="0.0 0.0 0.0349066" />
   </joint>
 </robot>
